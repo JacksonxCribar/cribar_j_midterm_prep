@@ -1,0 +1,295 @@
+.hidden
+{
+	display: none;
+}
+
+body
+{
+	font-family: Arial, Calibri;
+	font-size: 30px;
+
+
+}
+
+
+
+#container
+{
+	width: 1000px;
+	
+	/*text-align: center;*/
+	margin: 0 auto;
+
+}
+
+
+
+#mainHeader
+{
+	display: flex;
+	padding-bottom: 10px;
+	background-color: #ff3745;
+
+}
+
+#mainNav
+{
+	width: 650px;
+	height: 115px;
+	background-color: #243870;
+	margin-left: 15px;
+	margin-right: 10px;
+	margin-top: 20px;
+	padding-left: 0px;
+	
+ 	font-size: 24px;
+	
+}
+
+#mainNav p
+{
+	padding: 35px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+
+#headerText
+{
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: row;
+	
+}
+
+#promoPic1
+{
+	width: 438px;
+	height: 164px;
+	background-color: #243870;
+	margin-left: 14px;
+	margin-right: 15px;
+	margin-top: 20px;
+	
+	
+}
+
+#promoPic1 h2
+{
+	text-align: center;
+	padding: 60px;
+	color: #FFFFFF;
+}
+	
+
+#logo
+{
+	width: 207px;
+	height: 74px;
+	background-color: #243870;
+	margin-left: 10px;
+	margin-right: 60px;
+	margin-top: 20px;
+	margin-right: auto;
+}
+
+#logo h1
+{
+	text-align: center;
+	padding: 25px;
+	color: #FFFFFF;
+}
+
+
+
+
+
+
+.imageGroup1
+{
+	margin-top: 25px;
+	display: flex;
+	
+}
+
+#image1
+{
+	height: 173px;
+	width: 264px;
+	/*margin-right: auto;*/
+	background-color: #ff3745;
+	margin left: : 15px;
+}
+
+#image2
+{
+	height: 173px;
+	width: 264px;
+	/*margin-left: auto;*/
+	background-color: #ff3745;
+	margin-left: 15px;
+	
+
+}
+
+.imageGroup2
+{
+	display: flex;
+	flex-direction: row;
+  	justify-content: flex-start;
+  	margin-top: 5px;
+}
+
+#image3
+{
+	height: 173px;
+	width: 264px;
+	/*margin-right: auto;*/
+	background-color: #ff3745;
+}
+
+#image4
+{
+	height: 173px;
+	width: 264px;
+	/*margin-left: auto;*/
+	background-color: #ff3745;
+	margin-left: 280px;
+	margin bottom: 300px;
+
+
+}
+
+.informationBoxtop 
+{
+	background-color: #ff3745;
+	margin-right: auto;
+	float: right;
+	height: 175px;
+	width: 400px;
+	margin-bottom: 100px;
+}
+
+informationBoxtop h1
+{
+
+}
+
+.informationBoxbottom
+{
+	background-color: #ff3745;
+	margin-right: auto;
+	float: right;
+	height: 175px;
+	width: 400px;
+	margin-bottom: 100px;
+}
+
+.mainFooter
+{
+	display: flex;
+	flex-direction: row;
+	margin-bottom: auto;
+}
+
+
+/*pagetwo*/
+
+
+
+/*#imageCollage1
+{
+	margin-top: 50px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+
+}
+
+#image1
+{
+	height: 173px;
+	width: 264px;
+	background-color: #ff3745
+
+
+
+}
+
+#image1 
+{
+	padding: 55px;
+	margin-top: 50px;
+
+}
+
+#image2
+{
+	height: 173px;
+	width: 264px;
+	background-color: #ff3745
+	
+}
+
+#image2 
+{
+	padding: 55px;
+	margin-top: 15px
+	
+}
+
+.imageCollage2
+{
+	margin-top: 15px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+  	margin-top: 5px;
+
+	
+}
+
+#image3
+{
+	height: 173px;
+	width: 264px;
+	background-color: #ff3745
+
+
+
+}
+
+#image3 
+{
+	padding: 55px;
+	margin-left: 
+	margin-top: 15px;
+}
+
+#image4
+{
+	height: 173px;
+	width: 264px;
+	background-color: #ff3745
+
+
+
+}
+
+#image4
+{
+	padding: 55px;
+	margin-top: 15px;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
