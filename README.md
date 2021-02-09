@@ -5,3 +5,5 @@
 #This assignment did not go well for me, I'm not sure what went wrong, I quite literally spent all night 6 pm approximatly to 11:00 am trying to figure out how to fix the code, and make it look nice, but it didnt turn out very good as you can clearly see :(
 
 #Going to be trying to understand what went wrong before it's too late for the FIP midterm.
+
+#For some reason it inverted, and whatever I did to try to fix it woulnt work, and also I  truly wasn't able to get the format to work, no idea what happened honestly.
